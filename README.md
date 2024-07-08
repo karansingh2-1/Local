@@ -1,3 +1,2 @@
 # This is my new local repo.
- I have created a new feature
- 
+ <p>I have created a new feature</p>
